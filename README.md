@@ -1,0 +1,2 @@
+# Edgar
+Bot para Discord
